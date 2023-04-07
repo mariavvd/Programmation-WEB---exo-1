@@ -5,3 +5,11 @@
 + Paméla
 + Xavier
 + Patrice
+# Travail Imprinerie Console
++ création des classes de base 2023-04-07
++ Client
++ DemandeImpression
++ Encre
++ imprimante
++ Papier
++ Program
